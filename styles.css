@@ -1,0 +1,37 @@
+body {
+  background-color: #d1bcd1;
+  font-family: sans-serif;
+  color: black;
+}
+
+h1 {
+  text-align:center;
+  padding-top:20px;
+  padding-bottom:40px;
+}
+
+#definition {
+  text-align:center;
+  font-size:20px;
+  margin-bottom:60px
+}
+
+div {  text-align:center;
+  padding: 10px;
+}
+
+#result-msg {
+  font-size:22;
+}
+
+#text-input {
+  border: 1px solid white;
+  min-width:200px;
+  min-height:30px;
+}
+
+button {
+  min-width:60px;
+  min-height:30px;
+  margin-left:10px;
+}
